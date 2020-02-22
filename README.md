@@ -22,8 +22,8 @@ OpenCV – 4.2.0
 ## GPU Algorithm Performance 
 |Algorithm|Processor|Frequency(Ghz)|Power Consumption (Watt)|Throughput (GFlops)|
 |-------------| ------------- | ------------- | ------------- | ------------- |
-|RGB -> YUV (CUDA OpenCV)| NVIDIA GeForce GTX 1070| 1506 Ghz ||
-|RGB -> Gray (CUDA OpenCV)| NVIDIA GeForce GTX 1070| 1506  GHz ||
+|RGB -> YUV (CUDA OpenCV)| NVIDIA GeForce GTX 1070| 1.506 Ghz ||
+|RGB -> Gray (CUDA OpenCV)| NVIDIA GeForce GTX 1070| 1.506  GHz ||
 
 ## Authors
 
